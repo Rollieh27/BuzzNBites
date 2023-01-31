@@ -11,7 +11,10 @@
     background-size: cover;
     background-repeat: no-repeat;
 }*/
-
+.logo{
+    font-family: 'Itim', cursive;
+    font-size: 40px;
+}
 :root{
     --franks-color-1: #6508bc;
     --franks-color-2: #5810e8;
